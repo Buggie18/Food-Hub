@@ -5,12 +5,6 @@ This is a food delivery app is developed for the purpose of simplifying food ord
 •	NodeJs<br />
 •	MySQL<br />
 ## Features
-•	Two User Roles:
-Recruiter: Manages job postings, applicant tracking, and interview scheduling.
-Job Seeker: Searches and applies for jobs, tracks application status, and receives interview notifications.
-• Job Postings Management: Recruiters can create, edit, and delete job postings.
-• Applicant Tracking: Track applications, filter candidates, and monitor interview progress.
-• Resume Upload: Job Seekers can upload their resumes and apply for jobs.
-• Interview Scheduling: Recruiters can schedule interviews and notify Job Seekers.
-• Evaluation & Feedback: Recruiters can rate and provide feedback on candidates after interviews.
-• Reporting: Generate recruitment reports, such as total applications, status updates, and hired candidates.
+•	User Registration and Authentication: Users can sign up and log in securely to access the app's functionalities.<br />
+•	Restaurant and Menu Display: Users can explore various restaurants and view their menus with detailed descriptions.<br />
+•	Order Customization: Users can customize their food orders by selecting extras, specifying preferences, and adding special instructions.<br />
